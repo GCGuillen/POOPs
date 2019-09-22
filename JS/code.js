@@ -4,58 +4,56 @@ var urlBase = 'http://pooptopoos.com/';
 var extension = "php";
 
 var userId = 0;
-var firstName = "";
-var lastName = "";
 
 var contactsList = [];
 
 function doLogin()
 {
+   // Set userId to 0 and loginResult to an empty string for error handling purposes
    userId = 0;
-	firstName = "";
-	lastName = "";
+   document.getElementById("loginResult").innerHTML = "";
 
-	var login = document.getElementById("loginName").value;
-	var password = document.getElementById("loginPassword").value;
+   // Get the username and password typed in by the user
+	var uName = document.getElementById("uName").value;
+	var passWord = document.getElementById("pWord").value;
 
-	document.getElementById("loginResult").innerHTML = "";
+   // Setup the json that will be sent to the server and the url
+	var jsonPayload = JSON.stringify({login:uName, password:passWord});
+	var url = urlBase + '/api/login.' + extension;
 
-	var jsonPayload = '{"login" : "' + login + '", "password" : "' + password + '"}';
-	var url = urlBase + '/Login.' + extension;
-
+   // Prep for sending the json payload to the server
 	var xhr = new XMLHttpRequest();
-	xhr.open("POST", url, false);
+	xhr.open("POST", url, true);
 	xhr.setRequestHeader("Content-type", "application/json; charset=UTF-8");
-
+	alert(uName + passWord);
    try
    {
+      // Send the json payload to the server
+      xhr.send(jsonPayload);
+      //alert(xhr.responseText);
       xhr.onreadystatechange = function()
       {
          if (this.readyState == 4 && this.status == 200)
          {
+            alert(xhr.responseText);
             var jsonObject = JSON.parse(xhr.responseText);
 
+            // Set the userId and check to make sure it was changed
       		userId = jsonObject.id;
-
       		if (userId < 1)
       		{
-      			document.getElementById("loginResult").innerHTML = "User/Password combination incorrect";
+      			document.getElementById("loginResult").innerHTML = jsonObject.error;
       			return;
       		}
 
-      		firstName = jsonObject.firstName;
-      		lastName = jsonObject.lastName;
+            // Reset the username and password
+      		document.getElementById("uName").value = "";
+      		document.getElementById("pWord").value = "";
 
-      		document.getElementById("userName").innerHTML = firstName + " " + lastName;
-
-      		document.getElementById("loginName").value = "";
-      		document.getElementById("loginPassword").value = "";
-
+            // Change the page from the login page
       		hideOrShow("loggedInDiv", true);
       		hideOrShow("accessUIDiv", true);
       		hideOrShow("loginDiv", false);
-
-      		xhr.send(jsonPayload);  // Move out of function to bottom of try block
          }
       }
    }
@@ -67,16 +65,15 @@ function doLogin()
 
 function doLogout()
 {
+   // Reset all vars
    userId = 0;
-   firstName = "";
-   lastName = "";
+   document.getElementById("uName").value = "";
+   document.getElementById("pWord").value = "";
+   // document.getElementById("contactName").value = "";
+   // document.getElementById("contactEmail").value = "";
+   // document.getElementById("contactPhoneNumber").value = "";
 
-   document.getElementById("loginName").value = "";
-   document.getElementById("loginPassword").value = "";
-   document.getElementById("contactName").value = "";
-   document.getElementById("contactEmail").value = "";
-   document.getElementById("contactPhoneNumber").value = "";
-
+   // Go back to showing the login page
    hideOrShow("loggedInDiv", false);
 	hideOrShow("accessUIDiv", false);
 	hideOrShow("loginDiv", true);
@@ -99,13 +96,59 @@ function hideOrShow(elementId, showState)
 
 function doRegistration()
 {
-   hideOrShow("loginDiv", false);
-   hideOrShow("registerDiv", true);
-}
+   // Set userId to 0 and loginResult to an empty string for error handling purposes
+   userId = 0;
+   document.getElementById("loginResult").innerHTML = "";
 
-function sumbitRegistration()
-{
-   //
+   // Get the username and password typed in by the user
+	var uName = document.getElementById("uName").value;
+	var passWord = document.getElementById("pWord").value;
+
+   // Setup the json that will be sent to the server and the url
+   var jsonPayload = JSON.stringify({login:uName, password:passWord});
+	var url = urlBase + '/api/signup.' + extension;
+
+   // Prep for sending the json payload to the server
+	var xhr = new XMLHttpRequest();
+	xhr.open("POST", url, true);
+	xhr.setRequestHeader("Content-type", "application/json; charset=UTF-8");
+
+	try
+	{
+      // Send the json payload to the server
+	   xhr.send(jsonPayload);
+
+      xhr.onreadystatechange = function()
+		{
+			if (this.readyState == 4 && this.status == 200)
+			{
+				var jsonObject = JSON.parse(xhr.responseText);
+            alert("beginning of doReg JSONPAYLOAD");
+
+            // Set the userId and check to make sure it was changed
+            userId = jsonObject.id;
+            alert(userId);
+            if (userId < 1)
+            {
+               document.getElementById("loginResult").innerHTML = jsonObject.error;
+               return;
+            }
+
+            // Reset the username and password
+      		document.getElementById("uName").value = "";
+      		document.getElementById("pWord").value = "";
+
+            // Change the page from the login page
+      		hideOrShow("loggedInDiv", true);
+      		hideOrShow("accessUIDiv", true);
+      		hideOrShow("loginDiv", false);
+			}
+		};
+	}
+	catch(err)
+	{
+		document.getElementById("loginResult").innerHTML = err.message;
+	}
 }
 
 function addContact()
@@ -125,6 +168,8 @@ function addContact()
 
    try
 	{
+      xhr.send(jsonPayload);
+
 		xhr.onreadystatechange = function()
 		{
 			if (this.readyState == 4 && this.status == 200)
@@ -132,7 +177,6 @@ function addContact()
 				document.getElementById("contactAddResult").innerHTML = "Contact has been added";
 			}
 		};
-		xhr.send(jsonPayload);
 	}
 	catch(err)
 	{
@@ -147,7 +191,47 @@ function retrieveContacts()
 
 function searchContact()
 {
-   //
+   var srch = document.getElementById("searchText").value;
+	document.getElementById("contactSearchResult").innerHTML = "";
+
+	var contactList = document.getElementById("contactList");
+	contactList.innerHTML = "";
+
+	var jsonPayload = '{"search" : "' + srch + '"}';
+	var url = urlBase + 'api/SearchContacts.' + extension;
+
+	var xhr = new XMLHttpRequest();
+	xhr.open("POST", url, true);
+	xhr.setRequestHeader("Content-type", "application/json; charset=UTF-8");
+
+	try
+	{
+      xhr.send(jsonPayload);
+
+		xhr.onreadystatechange = function()
+		{
+			if (this.readyState == 4 && this.status == 200)
+			{
+				hideOrShow("contactList", true);
+
+				document.getElementById("contactSearchResult").innerHTML = "Contact(s) has been retrieved";
+				var jsonObject = JSON.parse(xhr.responseText);
+
+				var i;
+				for (i = 0; i < jsonObject.results.length; i++)
+				{
+					var opt = document.createElement("option");
+					opt.text = jsonObject.results[i];
+					opt.value = "";
+					colorList.options.add(opt);
+				}
+			}
+		};
+	}
+	catch(err)
+	{
+		document.getElementById("contactSearchResult").innerHTML = err.message;
+	}
 }
 
 function deleteContact()

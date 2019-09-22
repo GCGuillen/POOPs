@@ -1,0 +1,44 @@
+[20-Sep-2019 14:58:09 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 14:58:09 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 14:58:25 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 14:58:25 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 14:59:20 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 14:59:20 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:00:00 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:00:00 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:00:50 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:00:50 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:01:21 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:01:21 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:01:45 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:01:45 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:02:05 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:02:05 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:05:35 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:05:35 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:07:26 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:07:26 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:07:44 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:07:44 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:22:22 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:22:22 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:24:41 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:24:41 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:26:29 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:26:29 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:32:09 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:32:09 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:38:12 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:38:12 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:39:31 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 15:39:31 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 16:05:37 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 16:05:37 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 16:12:32 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 16:12:32 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 16:27:40 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 16:27:40 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 16:28:56 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 16:28:56 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 19:35:56 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in /home/v23riaajfc5u/public_html/signup.php on line 54
+[20-Sep-2019 19:35:56 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/v23riaajfc5u/public_html/signup.php on line 54

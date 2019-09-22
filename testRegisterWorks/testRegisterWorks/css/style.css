@@ -18,13 +18,13 @@ input
 	text-align: left;
 }
 
-#loginDiv
+#login
 {
 	background: rgba(255, 255, 255, 0.2);
   	width: 500px;
   	border-radius:6px;
  	padding:0px 0px 70px 0px;
- 	border: #2980b9 4px solid;
+ 	border: #2980b9 4px solid; 
   	position: absolute;
   	left: 50%;
   	top: 50%;
@@ -60,14 +60,14 @@ input[type=submit]
 	font-size:15px;
 	font-weight:bold;
 	padding:6px 24px;
-	width: 250px;
+	width: 250px; 
 	margin-top: 20px;
 	text-align: center;
 }
 
 
 /* Contacts Page */
-.contacts
+.contacts 
 {
 	font-size:12px;
 	color:#333333;
@@ -78,22 +78,23 @@ input[type=submit]
 	text-align:left;
 	border-style: solid;
 }
-.contacts th
+.contacts th 
 {
 	background-color:#acc8cc;
 	padding: 8px;
 	border-style: solid;
-
+	
 }
-.contacts tr
+.contacts tr 
 {
 	background-color:#d4e3e5;
 }
-.contacts td
-{
+.contacts td 
+{	
 	padding: 8px;
 }
-.contacts tr:hover
+.contacts tr:hover 
 {
 	background-color:#ffffff;
 }
+
