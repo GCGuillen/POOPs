@@ -3,32 +3,35 @@
     require 'dbh.php';
     
     
+    //grab the JSON sent by the javascript
     $inData = getRequestInfo();
     
     $searchCount = 0;
     
     $id = $inData['userId'];
-    $search = $inData['search'];
+
+    //Start an api call to the database to select every entry row that has the user defined by JSON in contacts
     
-    // Prepare statement to prevent SQL injection attacks
-    $sql = $conn->prepare("SELECT * FROM contacts WHERE (firstName=? OR lastName=?) AND (referenceUser=?)");
+    $sql = $conn->prepare("SELECT * FROM contacts WHERE referenceUser=?");
     
-    $sql->bind_param("ssi", $search, $search, $id);
+    $sql->bind_param("i", $id);
     $sql->execute();
     $result = $sql->get_result();
     
-    // Search came up empty in database
+    //check if there are no users associated with the JSON user
     if($result->num_rows == 0)
     {
         returnWithError("No contacts");
     }
+    
+    //get the information of every row returned in the result
     else
     {
-        // While theres another row in search, store it in $row variable
         while($row = $result->fetch_assoc())
 		{
 			if( $searchCount > 0 )
 			{
+				
 				$firstNameResults .=",";
 				$lastNameRestults .=",";
 				$userIdResults .=",";
@@ -38,27 +41,28 @@
 			$searchCount++;
 			$firstNameResults .= '"' . $row["firstName"] . '"';
 			$lastNameRestults .= '"' . $row["lastName"] . '"';
-			$userIdResults .= '"' . $row["UserId"] . '"';
 			$emailResults .= '"' . $row["email"] . '"';
 			$phoneNumberRestults .= '"' . $row["phoneNumber"] . '"';
+			$userIdResults .= '"' . $row["UserId"] . '"';
 		}
-		returnWithInfo( $firstNameResults, $lastNameRestults, $userIdResults, $emailResults, $phoneNumberRestults);
+		
+		returnWithInfo( $firstNameResults, $lastNameRestults, $emailResults, $phoneNumberRestults);
     }
-    
-    // Prepare json file to send list of contacts
-    function returnWithInfo( $firstNameResults, $lastNameRestults, $userIdResults, $emailResults, $phoneNumberRestults)
+    //turn the results into JSON format
+     function returnWithInfo( $firstNameResults, $lastNameRestults, $emailResults, $phoneNumberRestults)
 	{
+		
 		$retValue = '{"firstName":[' . $firstNameResults . '], "lastName":[' . $lastNameRestults . '], "userId":[' . $userIdResults . '], "email":[' . $emailResults . '], "phoneNumber":[' . $phoneNumberRestults . '],"error":""}';
 		sendResultInfoAsJson( $retValue );
 	}
 	
-	// Prepare a json file to send an error
+	//return an error if it fails a test case
 	function returnWithError( $err)
-    {
+   {
       $retValue = '{"id":0,"error":"' . $err . '"}';
       sendResultInfoAsJson($retValue);
-    }
-    // Send off json
+   }
+    //return the XMLHttpRequest a JSON object
      function sendResultInfoAsJson( $obj )
 	{
 		header('Content-type: application/json');
@@ -70,5 +74,3 @@
     {
 		return json_decode(file_get_contents('php://input'),true);
     }
-
-

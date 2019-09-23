@@ -1,8 +1,6 @@
 <?php
 
-   //session_start();
-   //session_unset();
-   //session_destroy();
+ //return user to login page
    header("Location: ../index.html");
 
 ?>

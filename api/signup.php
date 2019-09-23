@@ -37,28 +37,40 @@
    else
    {
     //Prepare statement to prevent sql injection attacks
+    
     $sql = $conn->prepare("INSERT INTO Login (userName, password) VALUES (?, ?)");
+    
     // Hash the password
+    
     $hashedPwd = password_hash($password, PASSWORD_DEFAULT);
+    
     // Bind param
+    
     $sql->bind_param("ss", $username, $hashedPwd);
+    
     // Execute sql query
+    
     $sql->execute();
+    
     // Select query to get user's id
+    
     $sql = $conn->prepare("SELECT userid FROM Login WHERE UserName=?");
+    
     $sql->bind_param("s", $username);
+    
     // Execute select query to get userid
+    
     $sql->execute();
     $result = $sql->get_result();
     $row = $result->fetch_assoc();
+    
     // Assign value to id
     $id = $row["userid"];
     returnWithInfo($id);
    }
    $conn->close();
 
-   mysqli_stmt_close($stmt);
-   mysqli_close($conn);
+
   
   function getRequestInfo()
   {
@@ -73,8 +85,7 @@
   
   function returnWithInfo($id)
   {
-        //$retValue = '{"id":' . $id . ',"error":""}';
-        // $retValue = '{"id":' . $id .'}';
+
         $retValue = '{"id":"' . $id . '"}';
 		sendResultInfoAsJson( $retValue );
   }
@@ -86,23 +97,5 @@
   }
 
 
-   if (isset($_GET['error']))
-   {
-      if ($_GET['error'] == "emptyfields")
-      {
-         echo '<p class="signuperror">Fill in both fields!</p>';
-      }
-      else if ($_GET['error'] == "invaliduid")
-      {
-         echo '<p class="signuperror">Invalide username!</p>';
-      }
-      else if ($_GET['error'] == "logininformationtaken")
-      {
-         echo '<p class="signuperror">Your username is already in use!</p>';
-      }
-   }
-   else if ($_GET['signup'] == "success")
-   {
-      echo '<p class="signupsuccess">Signup succesful!</p>';
-   }
+
 ?>
