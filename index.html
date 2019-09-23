@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> Contact Manager </title>
+		<link rel="stylesheet" href="css/style.css" type="text/css"/>
+		<link rel="icon" href="Images/favicon.ico" type="image/x-icon">
+		<script src="JS/code.js"></script>
+	</head>
+	<body>
+		<div id = "wrapper">
+			
+			<div id="login">
+				<h1>Welcome</h1>
+				<input type="text" id="uName" name="uName" required="required" placeholder="Username" autofocus="autofocus"><br/>
+				<input type="Password" id="pWord" name="pWord" required="required" placeholder="Password"><br/>
+				<input type="submit" class="login" value="Login" onclick="doLogin();"><br/>
+				<input type="submit" class="login" value="Register" onclick="doRegistration();"><br/>
+				<span id="loginResult"></span>
+			</div>
+
+
+			<div id="contacts">
+				<button type="button" class="button" id="logout" onclick="doLogout();">Logout</button>
+				<button type="button" class="button" id="addContact" onclick="openAddBox();">Add Contact</button>
+				<button type="button" class="button" id="search" onclick="openSearchBox();">Search</button>
+				
+				<div class="popupSearch" id="searchBox">
+					<h4>Enter First Name of Contact:</h4>
+					<input type="text" placeholder="First Name" id="searchContact" name="searchContact" required="required">
+					<button type="button" class="button" id="searchButton" onclick="searchContact();">Search Contact</button>
+					<button type="button" class="closeButton" id="close" onclick="closeSearchBox();">Close</button>
+					<span id="contactSearchResult"></span>
+					
+					<table class="contacts" id="gibberish2" border="1">
+				    <tr>
+					    <th>First Name</th>
+					    <th>Last Name</th>
+					    <th>E-Mail</th>
+					    <th>Phone Number</th>
+    			    </tr>
+				    </table>
+					
+					
+				</div>
+				
+				
+				<script>
+					function openSearchBox()
+					{
+						document.getElementById("searchBox").style.display = "block";
+					}
+					function closeSearchBox()
+					{
+						document.getElementById("searchBox").style.display = "none";
+					}
+				</script>
+
+				<div class="popupAddContact" id="addBox">
+					<h4>Fill Out to Add Contact</h4>
+					<input type="text" placeholder="First Name" id="cFirstName" name="fName" required="required">
+					<input type="text" placeholder="Last Name" id="cLastName" name="lName" required="required">
+					<input type="text" placeholder="E-Mail" id="cEmail" name="eMail" required="required">
+					<input type="text" placeholder="Phone Number" id="cPhoneNumber" name="pNumber" required="required">
+					<button type="button" class="button" id="submit" onclick="addContact();">Add Contact</button>
+					<button type="button" class="closeButton" id="close" onclick="closeAddBox();">Close</button>
+
+					<span id="contactAddResult"></span>
+				</div>
+
+				<script>
+					function openAddBox()
+					{
+						document.getElementById("addBox").style.display = "block";
+					}
+					function closeAddBox()
+					{
+						document.getElementById("addBox").style.display = "none";
+					}
+				</script>
+				
+				<table class="contacts" id="gibberish" border="1">
+				    <tr>
+					    <th>First Name</th>
+					    <th>Last Name</th>
+					    <th>E-Mail</th>
+					    <th>Phone Number</th>
+    			    </tr>
+				</table>
+			</div>
+		</div>
+	</body>
+</html>
