@@ -1,0 +1,1417 @@
+[21-Sep-2019 20:28:43 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 20:28:43 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 20:28:43 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 20:28:43 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 20:28:43 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 20:28:43 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 20:35:42 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 20:35:43 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 20:35:43 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 20:35:43 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 20:35:58 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 20:35:58 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 20:35:58 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 20:35:58 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 20:36:03 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 20:36:03 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 20:36:03 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 20:36:03 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 20:36:05 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 20:36:05 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 20:36:05 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 20:36:05 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 20:36:05 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 20:36:05 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 20:36:05 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 20:36:05 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 20:36:06 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 20:36:06 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 20:36:06 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 20:36:06 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 20:36:06 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 20:36:06 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 20:36:06 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 20:36:06 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 20:36:07 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 20:36:07 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 20:36:07 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 20:36:07 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 20:49:24 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 20:49:24 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 20:49:24 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 20:49:24 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 20:49:24 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 20:49:24 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 20:49:24 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 20:49:24 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 20:49:28 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 20:49:28 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 20:49:28 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 20:49:28 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:00:24 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:00:24 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:00:24 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:00:24 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:00:25 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:00:25 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:00:25 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:00:25 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:00:25 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:00:25 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:00:25 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:00:25 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:00:25 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:00:25 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:00:25 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:00:25 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:00:26 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:00:26 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:00:28 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:00:28 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:00:29 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:00:29 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:00:30 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:00:30 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:00:30 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:00:30 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:00:30 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:00:30 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:00:31 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:00:31 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:00:31 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:00:32 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:00:32 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:00:32 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:00:33 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:00:33 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:00:33 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:00:33 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:00:33 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:00:34 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:00:34 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:00:34 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:00:34 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:00:34 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:00:36 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:00:36 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:00:38 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:00:38 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:00:38 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:00:38 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:00:41 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:00:41 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:00:41 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:00:41 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:00:44 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:00:44 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:00:46 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:00:46 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:00:48 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:00:48 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:00:49 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:00:49 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:00:53 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:00:53 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:00:54 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:00:54 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:00:54 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:00:54 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:00:56 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:00:56 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:00:56 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:00:56 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:01:03 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:01:03 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:01:08 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:01:08 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:01:08 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:01:08 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:01:16 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:01:16 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:02:47 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:02:47 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:02:47 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:02:47 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:02:48 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:02:48 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:02:48 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:02:48 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:02:53 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:02:53 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:02:53 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:02:53 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:02:56 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:02:56 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:02:57 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:02:57 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:03:11 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:03:11 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:03:14 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:03:14 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:03:14 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:03:14 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:03:15 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:03:15 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:03:15 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:03:15 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:03:52 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:03:52 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:03:56 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:03:56 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:03:56 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:03:56 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:07:47 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:07:47 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:07:48 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:07:48 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:07:48 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:07:48 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:07:48 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:07:48 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:07:49 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:07:49 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:07:49 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:07:49 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:07:50 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:07:50 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:07:50 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:07:50 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:07:50 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:07:50 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:07:50 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:07:50 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:07:58 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:07:59 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:07:59 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:07:59 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:07:59 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:07:59 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:07:59 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:07:59 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:08:16 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:08:16 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:08:16 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:08:16 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:08:16 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:08:17 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:08:17 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:08:17 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:08:17 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:08:17 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:08:17 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:08:17 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:08:17 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:08:17 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:08:17 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:08:17 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:08:20 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:08:20 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:11:53 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:11:53 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:11:53 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:11:53 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:11:54 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:11:54 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:11:54 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:11:54 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:11:56 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:11:56 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:11:57 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:11:57 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:11:58 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:11:58 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:11:58 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:11:58 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:19:29 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:19:29 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:19:29 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:19:29 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:25:15 UTC] PHP Notice:  Undefined variable: dbUsername in /home/v23riaajfc5u/public_html/api/dbh.php on line 9
+[21-Sep-2019 21:25:15 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:25:15 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:25:15 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:25:15 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:44:47 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:44:47 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:44:47 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:44:47 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:44:48 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:44:48 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:44:56 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:44:56 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:45:01 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:01 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:01 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:01 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:02 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:02 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:02 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:02 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:02 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:02 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:02 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:02 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:02 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:02 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:02 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:02 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:02 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:02 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:02 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:02 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:02 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:02 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:03 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:03 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:03 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:03 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:03 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:03 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:03 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:03 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:03 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:03 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:05 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:05 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:05 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:05 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:05 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:05 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:05 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:05 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:05 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:06 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:06 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:06 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:06 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:06 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:06 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:06 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:06 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:06 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:06 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:07 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:07 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:07 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:07 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:07 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:07 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:07 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:08 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:08 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:08 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:08 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:08 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:08 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:08 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:45:08 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:08 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:08 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:08 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:08 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:08 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:08 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:08 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:08 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:45:08 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:45:08 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:45:08 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:47:49 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:47:49 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:47:49 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:47:49 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:51:17 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:51:18 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:51:18 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:51:18 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:51:55 UTC] PHP Notice:  Undefined index: mailuid in /home/v23riaajfc5u/public_html/api/login.php on line 4
+[21-Sep-2019 21:51:55 UTC] PHP Notice:  Undefined index: pwd in /home/v23riaajfc5u/public_html/api/login.php on line 5
+[21-Sep-2019 21:51:57 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:51:57 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:51:57 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:51:57 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:51:57 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:51:57 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:51:57 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:51:57 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:51:57 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:51:57 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:51:57 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:51:58 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:51:58 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:51:58 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:51:58 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:51:58 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:51:58 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:51:58 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:51:58 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:51:58 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:51:58 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:51:58 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:51:58 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:51:58 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:51:58 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:51:58 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:51:58 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:51:58 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:51:58 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:51:58 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:51:58 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:51:58 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:51:58 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:51:58 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:51:59 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:51:59 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:51:59 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:51:59 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:51:59 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:51:59 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:51:59 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:51:59 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:51:59 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:51:59 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:51:59 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:51:59 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:51:59 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:51:59 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:51:59 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:51:59 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:51:59 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:51:59 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:52:00 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:52:00 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:52:00 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:52:00 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:52:00 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:52:00 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:52:00 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:52:00 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:52:00 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:52:00 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:52:00 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:52:00 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:52:02 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:52:02 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:52:02 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:52:02 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 21:58:38 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 21:58:38 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 21:58:38 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 21:58:38 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 22:00:16 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 22:00:16 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 22:00:16 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 22:00:16 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 22:00:18 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 22:00:18 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 22:00:18 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 22:00:18 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 22:00:44 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 22:00:44 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 22:00:44 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 22:00:44 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 22:01:26 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 22:01:26 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 22:01:26 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 22:01:26 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 22:01:30 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 22:01:30 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 22:01:30 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 22:01:30 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 22:02:09 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 22:02:09 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 22:02:09 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 22:02:09 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 22:02:44 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 22:02:44 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 22:02:44 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 22:02:44 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 22:03:01 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 22:03:01 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 22:03:01 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 22:03:01 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 22:03:04 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 12
+[21-Sep-2019 22:03:04 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[21-Sep-2019 22:03:04 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[21-Sep-2019 22:03:04 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 116
+[21-Sep-2019 22:05:20 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 13
+[21-Sep-2019 22:05:21 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[21-Sep-2019 22:05:21 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[21-Sep-2019 22:05:21 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 117
+[21-Sep-2019 22:07:23 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 13
+[21-Sep-2019 22:07:23 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[21-Sep-2019 22:07:23 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[21-Sep-2019 22:07:23 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 117
+[21-Sep-2019 22:11:46 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 13
+[21-Sep-2019 22:11:46 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[21-Sep-2019 22:11:46 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[21-Sep-2019 22:11:46 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 117
+[21-Sep-2019 22:13:02 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 13
+[21-Sep-2019 22:13:02 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[21-Sep-2019 22:13:02 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[21-Sep-2019 22:13:02 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 117
+[21-Sep-2019 22:16:44 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 13
+[21-Sep-2019 22:16:44 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[21-Sep-2019 22:16:44 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[21-Sep-2019 22:16:44 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 118
+[21-Sep-2019 22:24:28 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 13
+[21-Sep-2019 22:24:29 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[21-Sep-2019 22:24:29 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[21-Sep-2019 22:24:29 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 118
+[21-Sep-2019 22:25:08 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 13
+[21-Sep-2019 22:25:08 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[21-Sep-2019 22:25:08 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[21-Sep-2019 22:25:08 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 118
+[21-Sep-2019 22:25:25 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 13
+[21-Sep-2019 22:25:25 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[21-Sep-2019 22:25:25 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[21-Sep-2019 22:25:25 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 118
+[21-Sep-2019 22:27:38 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 13
+[21-Sep-2019 22:27:38 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[21-Sep-2019 22:27:38 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[21-Sep-2019 22:27:38 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 118
+[21-Sep-2019 22:28:15 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 13
+[21-Sep-2019 22:28:15 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[21-Sep-2019 22:28:15 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[21-Sep-2019 22:28:15 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 118
+[21-Sep-2019 22:32:35 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 13
+[21-Sep-2019 22:32:35 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[21-Sep-2019 22:32:35 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[21-Sep-2019 22:32:35 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 118
+[21-Sep-2019 22:33:08 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 13
+[21-Sep-2019 22:33:08 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[21-Sep-2019 22:33:08 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[21-Sep-2019 22:33:08 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 118
+[21-Sep-2019 22:34:20 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 13
+[21-Sep-2019 22:34:20 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[21-Sep-2019 22:34:20 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[21-Sep-2019 22:34:20 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 118
+[21-Sep-2019 22:35:37 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 13
+[21-Sep-2019 22:35:37 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[21-Sep-2019 22:35:37 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[21-Sep-2019 22:35:37 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 119
+[21-Sep-2019 22:37:48 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 13
+[21-Sep-2019 22:37:48 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[21-Sep-2019 22:37:48 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[21-Sep-2019 22:37:48 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 119
+[21-Sep-2019 22:44:15 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 13
+[21-Sep-2019 22:44:15 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[21-Sep-2019 22:44:15 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[21-Sep-2019 22:44:15 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 119
+[21-Sep-2019 22:48:49 UTC] PHP Notice:  Undefined index: username in /home/v23riaajfc5u/public_html/api/signup.php on line 13
+[21-Sep-2019 22:48:49 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 22:48:49 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 22:48:49 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 22:51:19 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 22:51:19 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 22:51:19 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 22:52:51 UTC] PHP Warning:  fwrite() expects parameter 3 to be long, string given in /home/v23riaajfc5u/public_html/api/signup.php on line 18
+[21-Sep-2019 22:52:51 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 22:52:51 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 22:52:51 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 22:53:36 UTC] PHP Warning:  fwrite() expects parameter 3 to be long, string given in /home/v23riaajfc5u/public_html/api/signup.php on line 18
+[21-Sep-2019 22:53:36 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 22:53:36 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 22:53:36 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 22:54:55 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 22:54:55 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 22:54:55 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 22:56:27 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 22:56:27 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 22:56:27 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 23:08:05 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 23:08:05 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 23:32:38 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 23:32:38 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 23:32:38 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 23:33:15 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 23:33:15 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 23:33:15 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 23:53:45 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 30
+[21-Sep-2019 23:53:45 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 32
+[21-Sep-2019 23:53:47 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 23:53:47 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 23:53:47 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 23:54:03 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 31
+[21-Sep-2019 23:54:03 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[21-Sep-2019 23:54:06 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 23:54:06 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 23:54:26 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 23:54:26 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 23:54:26 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 23:55:18 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 23:55:18 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 23:55:18 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 23:55:36 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 23:55:36 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 23:55:36 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 23:55:49 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 23:55:49 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 23:55:49 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 23:56:12 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 23:56:12 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 23:56:12 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 23:57:19 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 23:57:19 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 23:57:19 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 23:57:38 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 23:57:38 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 23:57:38 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 23:58:39 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 23:58:39 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 23:58:39 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 23:58:56 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 23:58:56 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 23:58:56 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 23:59:21 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 23:59:21 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 23:59:21 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[21-Sep-2019 23:59:30 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[21-Sep-2019 23:59:30 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[21-Sep-2019 23:59:30 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[22-Sep-2019 00:01:26 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[22-Sep-2019 00:01:26 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[22-Sep-2019 00:01:26 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[22-Sep-2019 00:02:43 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[22-Sep-2019 00:02:43 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[22-Sep-2019 00:02:43 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[22-Sep-2019 00:08:08 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[22-Sep-2019 00:08:08 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[22-Sep-2019 00:08:08 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[22-Sep-2019 00:10:20 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[22-Sep-2019 00:10:20 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[22-Sep-2019 00:10:20 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[22-Sep-2019 00:12:06 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 31
+[22-Sep-2019 00:12:06 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:12:17 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 31
+[22-Sep-2019 00:12:17 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:12:22 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 31
+[22-Sep-2019 00:12:22 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:12:51 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 31
+[22-Sep-2019 00:12:51 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:17:36 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 31
+[22-Sep-2019 00:17:36 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:17:40 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 31
+[22-Sep-2019 00:17:40 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:18:33 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 31
+[22-Sep-2019 00:18:33 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:19:13 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 31
+[22-Sep-2019 00:19:13 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:20:57 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[22-Sep-2019 00:20:57 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[22-Sep-2019 00:22:13 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 31
+[22-Sep-2019 00:22:13 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:24:11 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 32
+[22-Sep-2019 00:24:11 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 34
+[22-Sep-2019 00:24:45 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 32
+[22-Sep-2019 00:24:45 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 34
+[22-Sep-2019 00:37:13 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 32
+[22-Sep-2019 00:37:13 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:37:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 00:38:41 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 32
+[22-Sep-2019 00:38:41 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:38:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 00:40:04 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 32
+[22-Sep-2019 00:40:04 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:40:04 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 00:41:01 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 32
+[22-Sep-2019 00:41:01 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 35
+[22-Sep-2019 00:41:54 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 32
+[22-Sep-2019 00:41:54 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:41:54 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 00:42:06 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 32
+[22-Sep-2019 00:42:06 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:42:06 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 00:43:44 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[22-Sep-2019 00:43:44 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[22-Sep-2019 00:43:58 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[22-Sep-2019 00:43:58 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[22-Sep-2019 00:45:15 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 81
+[22-Sep-2019 00:45:15 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 124
+[22-Sep-2019 00:49:49 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 32
+[22-Sep-2019 00:49:49 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:49:49 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 00:49:52 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 73
+[22-Sep-2019 00:49:52 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 82
+[22-Sep-2019 00:49:52 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 125
+[22-Sep-2019 00:50:04 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 32
+[22-Sep-2019 00:50:04 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:50:04 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 00:51:59 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 32
+[22-Sep-2019 00:51:59 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:51:59 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 00:53:22 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 32
+[22-Sep-2019 00:53:22 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:53:22 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 00:55:24 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 32
+[22-Sep-2019 00:55:24 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:55:24 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 00:57:05 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 32
+[22-Sep-2019 00:57:05 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:57:05 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 00:57:50 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/login.php on line 32
+[22-Sep-2019 00:57:50 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:57:50 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 00:58:51 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/login.php on line 33
+[22-Sep-2019 00:58:51 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 00:59:34 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 35
+[22-Sep-2019 01:08:51 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 35
+[22-Sep-2019 01:17:37 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 35
+[22-Sep-2019 01:18:12 UTC] PHP Fatal error:  Call to undefined function mysqli_stmt_get_result() in /home/v23riaajfc5u/public_html/api/login.php on line 35
+[22-Sep-2019 01:32:20 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:32:20 UTC] PHP Warning:  mysqli::query(): Empty query in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:32:20 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 01:32:26 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:32:26 UTC] PHP Warning:  mysqli::query(): Empty query in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:32:26 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 01:33:46 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:33:46 UTC] PHP Warning:  mysqli::query(): Empty query in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:33:46 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 01:33:57 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:33:57 UTC] PHP Warning:  mysqli::query(): Empty query in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:33:57 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 01:38:21 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:38:21 UTC] PHP Warning:  mysqli::query(): Empty query in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:38:21 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 01:40:13 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:40:13 UTC] PHP Warning:  mysqli::query(): Empty query in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:40:13 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 01:40:39 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:40:39 UTC] PHP Warning:  mysqli::query(): Empty query in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:40:39 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 01:40:51 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:40:51 UTC] PHP Warning:  mysqli::query(): Empty query in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:40:51 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 01:41:00 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:41:00 UTC] PHP Warning:  mysqli::query(): Empty query in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:41:00 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 01:41:06 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:41:06 UTC] PHP Warning:  mysqli::query(): Empty query in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:41:06 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 01:41:10 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:41:10 UTC] PHP Warning:  mysqli::query(): Empty query in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:41:10 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 01:42:14 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:42:14 UTC] PHP Warning:  mysqli::query(): Empty query in /home/v23riaajfc5u/public_html/api/login.php on line 38
+[22-Sep-2019 01:42:14 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 01:46:19 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 01:46:31 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 01:46:42 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 01:50:51 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 73
+[22-Sep-2019 01:50:51 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 82
+[22-Sep-2019 01:50:51 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 125
+[22-Sep-2019 01:51:27 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 73
+[22-Sep-2019 01:51:27 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 82
+[22-Sep-2019 01:51:27 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 125
+[22-Sep-2019 01:52:40 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 73
+[22-Sep-2019 01:52:40 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 82
+[22-Sep-2019 01:52:40 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 125
+[22-Sep-2019 01:52:50 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 73
+[22-Sep-2019 01:52:50 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 82
+[22-Sep-2019 01:52:50 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 125
+[22-Sep-2019 01:53:30 UTC] PHP Notice:  Undefined variable: result in /home/v23riaajfc5u/public_html/api/signup.php on line 70
+[22-Sep-2019 01:53:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 70
+[22-Sep-2019 02:12:26 UTC] PHP Notice:  Undefined variable: id in /home/v23riaajfc5u/public_html/api/signup.php on line 46
+[22-Sep-2019 02:12:26 UTC] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 46
+[22-Sep-2019 02:12:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/v23riaajfc5u/public_html/api/signup.php on line 51
+[22-Sep-2019 02:12:27 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 86
+[22-Sep-2019 02:12:27 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 129
+[22-Sep-2019 02:12:28 UTC] PHP Notice:  Undefined variable: id in /home/v23riaajfc5u/public_html/api/signup.php on line 46
+[22-Sep-2019 02:12:28 UTC] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 46
+[22-Sep-2019 02:12:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/v23riaajfc5u/public_html/api/signup.php on line 51
+[22-Sep-2019 02:12:40 UTC] PHP Notice:  Undefined variable: id in /home/v23riaajfc5u/public_html/api/signup.php on line 46
+[22-Sep-2019 02:12:40 UTC] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 46
+[22-Sep-2019 02:12:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/v23riaajfc5u/public_html/api/signup.php on line 51
+[22-Sep-2019 02:12:41 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 86
+[22-Sep-2019 02:12:41 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 129
+[22-Sep-2019 02:12:41 UTC] PHP Notice:  Undefined variable: id in /home/v23riaajfc5u/public_html/api/signup.php on line 46
+[22-Sep-2019 02:12:41 UTC] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 46
+[22-Sep-2019 02:12:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/v23riaajfc5u/public_html/api/signup.php on line 51
+[22-Sep-2019 02:36:40 UTC] PHP Notice:  Undefined variable: id in /home/v23riaajfc5u/public_html/api/signup.php on line 46
+[22-Sep-2019 02:36:40 UTC] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 46
+[22-Sep-2019 02:36:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/v23riaajfc5u/public_html/api/signup.php on line 51
+[22-Sep-2019 02:36:40 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 86
+[22-Sep-2019 02:36:40 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 129
+[22-Sep-2019 02:36:41 UTC] PHP Notice:  Undefined variable: id in /home/v23riaajfc5u/public_html/api/signup.php on line 46
+[22-Sep-2019 02:36:41 UTC] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 46
+[22-Sep-2019 02:36:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/v23riaajfc5u/public_html/api/signup.php on line 51
+[22-Sep-2019 02:36:43 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 02:36:48 UTC] PHP Notice:  Undefined variable: id in /home/v23riaajfc5u/public_html/api/signup.php on line 46
+[22-Sep-2019 02:36:48 UTC] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 46
+[22-Sep-2019 02:36:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/v23riaajfc5u/public_html/api/signup.php on line 51
+[22-Sep-2019 02:36:55 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 03:15:54 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/signup.php on line 33
+[22-Sep-2019 03:16:33 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/v23riaajfc5u/public_html/api/signup.php on line 33
+[22-Sep-2019 03:17:11 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:17:11 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:17:15 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:17:15 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:17:18 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:17:18 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:08 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:08 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:10 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:10 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:10 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:10 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:11 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:11 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:11 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:11 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:11 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:11 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:11 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:11 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:12 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:12 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:13 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:19:13 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:25:33 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:25:33 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:25:35 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:25:35 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:28:14 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:28:14 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:28:29 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:28:29 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:28:30 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:28:30 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:28:30 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:28:30 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:28:32 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 03:28:40 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:28:40 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:28:41 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:28:41 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 40
+[22-Sep-2019 03:31:44 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 41
+[22-Sep-2019 03:31:44 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 41
+[22-Sep-2019 03:35:05 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 41
+[22-Sep-2019 03:35:05 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 41
+[22-Sep-2019 03:37:38 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 41
+[22-Sep-2019 03:37:38 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 41
+[22-Sep-2019 03:38:07 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 41
+[22-Sep-2019 03:38:07 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 41
+[22-Sep-2019 03:38:28 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 41
+[22-Sep-2019 03:38:28 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 41
+[22-Sep-2019 03:40:50 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 56
+[22-Sep-2019 03:40:50 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 56
+[22-Sep-2019 03:41:21 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 56
+[22-Sep-2019 03:41:21 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 56
+[22-Sep-2019 03:44:51 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 59
+[22-Sep-2019 03:44:51 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 59
+[22-Sep-2019 04:02:40 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 59
+[22-Sep-2019 04:02:40 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 59
+[22-Sep-2019 04:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:08:23 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:08:23 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:09:11 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:09:11 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:09:27 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:09:27 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:10:40 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:10:40 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:12:00 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:12:00 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:12:00 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:12:00 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:12:02 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:12:02 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:12:02 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:12:02 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:12:03 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:12:03 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:12:03 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:12:03 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:12:03 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:12:03 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:21:19 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:21:19 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:21:58 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:21:58 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:22:24 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:22:24 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:24:26 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:24:26 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:24:43 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:24:43 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:27:32 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:27:32 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:28:35 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:28:35 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:28:40 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:28:40 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:28:44 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:28:44 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:35:25 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:35:25 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:38:22 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 10
+[22-Sep-2019 04:38:22 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:39:20 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 11
+[22-Sep-2019 04:41:52 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[22-Sep-2019 04:41:52 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 67
+[22-Sep-2019 04:43:22 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[22-Sep-2019 04:43:22 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[22-Sep-2019 04:44:32 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 74
+[22-Sep-2019 04:44:32 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 74
+[22-Sep-2019 04:45:30 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 74
+[22-Sep-2019 04:45:30 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 74
+[22-Sep-2019 04:51:05 UTC] PHP Fatal error:  Call to undefined function execute() in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[22-Sep-2019 04:51:43 UTC] PHP Fatal error:  Call to undefined function execute() in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[22-Sep-2019 04:53:38 UTC] PHP Fatal error:  Call to undefined function execute() in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[22-Sep-2019 04:54:50 UTC] PHP Warning:  mysqli_stmt_close(): invalid object or resource mysqli_stmt
+ in /home/v23riaajfc5u/public_html/api/signup.php on line 135
+[22-Sep-2019 04:54:50 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 136
+[22-Sep-2019 04:54:50 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 185
+[22-Sep-2019 04:55:20 UTC] PHP Warning:  mysqli_stmt_close(): invalid object or resource mysqli_stmt
+ in /home/v23riaajfc5u/public_html/api/signup.php on line 135
+[22-Sep-2019 04:55:20 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 136
+[22-Sep-2019 04:55:20 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 185
+[22-Sep-2019 04:56:34 UTC] PHP Warning:  mysqli_stmt_close(): invalid object or resource mysqli_stmt
+ in /home/v23riaajfc5u/public_html/api/signup.php on line 135
+[22-Sep-2019 04:56:34 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 136
+[22-Sep-2019 04:56:34 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 185
+[22-Sep-2019 04:57:59 UTC] PHP Warning:  mysqli_stmt_close(): invalid object or resource mysqli_stmt
+ in /home/v23riaajfc5u/public_html/api/signup.php on line 135
+[22-Sep-2019 04:57:59 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 136
+[22-Sep-2019 04:57:59 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 185
+[22-Sep-2019 05:09:35 UTC] PHP Warning:  fwrite() expects parameter 2 to be string, object given in /home/v23riaajfc5u/public_html/api/signup.php on line 82
+[22-Sep-2019 05:09:35 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 84
+[22-Sep-2019 05:09:35 UTC] PHP Fatal error:  Call to a member function get_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 84
+[22-Sep-2019 05:10:08 UTC] PHP Warning:  fwrite() expects parameter 2 to be string, object given in /home/v23riaajfc5u/public_html/api/signup.php on line 80
+[22-Sep-2019 05:10:08 UTC] PHP Warning:  fwrite() expects parameter 2 to be string, object given in /home/v23riaajfc5u/public_html/api/signup.php on line 83
+[22-Sep-2019 05:10:08 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 85
+[22-Sep-2019 05:10:08 UTC] PHP Fatal error:  Call to a member function get_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 85
+[22-Sep-2019 05:20:32 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[22-Sep-2019 05:20:32 UTC] PHP Fatal error:  Call to a member function get_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[22-Sep-2019 05:23:57 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/v23riaajfc5u/public_html/api/signup.php on line 72
+[22-Sep-2019 05:31:04 UTC] PHP Notice:  Undefined variable: row in /home/v23riaajfc5u/public_html/api/signup.php on line 131
+[22-Sep-2019 05:31:04 UTC] PHP Warning:  mysqli_stmt_close(): invalid object or resource mysqli_stmt
+ in /home/v23riaajfc5u/public_html/api/signup.php on line 136
+[22-Sep-2019 05:31:04 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 137
+[22-Sep-2019 05:31:04 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 186
+[22-Sep-2019 05:32:41 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[22-Sep-2019 05:32:41 UTC] PHP Fatal error:  Call to a member function bind_result() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[22-Sep-2019 05:34:40 UTC] PHP Warning:  mysqli_stmt_close(): invalid object or resource mysqli_stmt
+ in /home/v23riaajfc5u/public_html/api/signup.php on line 140
+[22-Sep-2019 05:34:40 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 141
+[22-Sep-2019 05:34:40 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 190
+[22-Sep-2019 05:38:18 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/v23riaajfc5u/public_html/api/signup.php on line 114
+[22-Sep-2019 05:38:18 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 137
+[22-Sep-2019 05:38:18 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 137
+[22-Sep-2019 05:38:18 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 138
+[22-Sep-2019 05:38:18 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 187
+[22-Sep-2019 05:38:33 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/v23riaajfc5u/public_html/api/signup.php on line 114
+[22-Sep-2019 05:38:33 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 137
+[22-Sep-2019 05:38:33 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 137
+[22-Sep-2019 05:38:33 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 138
+[22-Sep-2019 05:38:33 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 187
+[22-Sep-2019 05:39:02 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/v23riaajfc5u/public_html/api/signup.php on line 114
+[22-Sep-2019 05:39:02 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 137
+[22-Sep-2019 05:39:02 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 137
+[22-Sep-2019 05:39:02 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 138
+[22-Sep-2019 05:39:02 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 187
+[22-Sep-2019 05:41:06 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/v23riaajfc5u/public_html/api/signup.php on line 114
+[22-Sep-2019 05:41:06 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 138
+[22-Sep-2019 05:41:06 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 138
+[22-Sep-2019 05:41:06 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 139
+[22-Sep-2019 05:41:06 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 188
+[22-Sep-2019 05:41:55 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/v23riaajfc5u/public_html/api/signup.php on line 114
+[22-Sep-2019 05:41:55 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 139
+[22-Sep-2019 05:41:55 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 139
+[22-Sep-2019 05:41:55 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 140
+[22-Sep-2019 05:41:55 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 189
+[22-Sep-2019 05:52:29 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/v23riaajfc5u/public_html/api/signup.php on line 115
+[22-Sep-2019 05:52:29 UTC] PHP Notice:  Undefined variable: idNum in /home/v23riaajfc5u/public_html/api/signup.php on line 135
+[22-Sep-2019 05:52:29 UTC] PHP Notice:  Undefined variable: idNum in /home/v23riaajfc5u/public_html/api/signup.php on line 137
+[22-Sep-2019 05:52:29 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 142
+[22-Sep-2019 05:52:29 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 142
+[22-Sep-2019 05:52:29 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 143
+[22-Sep-2019 05:52:29 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 192
+[22-Sep-2019 05:54:28 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/signup.php on line 65
+[22-Sep-2019 05:54:28 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[22-Sep-2019 05:55:08 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/signup.php on line 65
+[22-Sep-2019 05:55:08 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[22-Sep-2019 06:06:30 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/signup.php on line 65
+[22-Sep-2019 06:06:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[22-Sep-2019 06:06:33 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/signup.php on line 65
+[22-Sep-2019 06:06:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[22-Sep-2019 06:06:33 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/signup.php on line 65
+[22-Sep-2019 06:06:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[22-Sep-2019 06:06:43 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/v23riaajfc5u/public_html/api/signup.php on line 65
+[22-Sep-2019 06:06:43 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/v23riaajfc5u/public_html/api/signup.php on line 66
+[22-Sep-2019 06:06:58 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 06:11:09 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/v23riaajfc5u/public_html/api/signup.php on line 64
+[22-Sep-2019 06:16:23 UTC] PHP Notice:  Undefined variable: id in /home/v23riaajfc5u/public_html/api/signup.php on line 75
+[22-Sep-2019 06:16:23 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/v23riaajfc5u/public_html/api/signup.php on line 119
+[22-Sep-2019 06:16:23 UTC] PHP Notice:  Undefined variable: idNum in /home/v23riaajfc5u/public_html/api/signup.php on line 139
+[22-Sep-2019 06:16:23 UTC] PHP Notice:  Undefined variable: idNum in /home/v23riaajfc5u/public_html/api/signup.php on line 141
+[22-Sep-2019 06:16:23 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 146
+[22-Sep-2019 06:16:23 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 146
+[22-Sep-2019 06:16:23 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 147
+[22-Sep-2019 06:16:23 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 196
+[22-Sep-2019 06:18:04 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/v23riaajfc5u/public_html/api/signup.php on line 121
+[22-Sep-2019 06:18:04 UTC] PHP Notice:  Undefined variable: idNum in /home/v23riaajfc5u/public_html/api/signup.php on line 141
+[22-Sep-2019 06:18:04 UTC] PHP Notice:  Undefined variable: idNum in /home/v23riaajfc5u/public_html/api/signup.php on line 143
+[22-Sep-2019 06:18:04 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 148
+[22-Sep-2019 06:18:04 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 148
+[22-Sep-2019 06:18:04 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 149
+[22-Sep-2019 06:18:04 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 198
+[22-Sep-2019 06:19:58 UTC] PHP Notice:  Undefined variable: id in /home/v23riaajfc5u/public_html/api/signup.php on line 77
+[22-Sep-2019 06:19:58 UTC] PHP Notice:  Undefined variable: result in /home/v23riaajfc5u/public_html/api/signup.php on line 94
+[22-Sep-2019 06:19:58 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 94
+[22-Sep-2019 06:19:58 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/v23riaajfc5u/public_html/api/signup.php on line 117
+[22-Sep-2019 06:22:01 UTC] PHP Notice:  Undefined variable: id in /home/v23riaajfc5u/public_html/api/signup.php on line 77
+[22-Sep-2019 06:22:01 UTC] PHP Notice:  Undefined variable: result in /home/v23riaajfc5u/public_html/api/signup.php on line 94
+[22-Sep-2019 06:22:01 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/signup.php on line 94
+[22-Sep-2019 06:22:01 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/v23riaajfc5u/public_html/api/signup.php on line 117
+[22-Sep-2019 06:23:37 UTC] PHP Notice:  Undefined variable: id in /home/v23riaajfc5u/public_html/api/signup.php on line 77
+[22-Sep-2019 06:23:56 UTC] PHP Notice:  Undefined variable: id in /home/v23riaajfc5u/public_html/api/signup.php on line 77
+[22-Sep-2019 06:23:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/v23riaajfc5u/public_html/api/signup.php on line 120
+[22-Sep-2019 06:26:05 UTC] PHP Notice:  Undefined variable: id in /home/v23riaajfc5u/public_html/api/signup.php on line 77
+[22-Sep-2019 06:26:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/v23riaajfc5u/public_html/api/signup.php on line 120
+[22-Sep-2019 06:28:53 UTC] PHP Notice:  Undefined variable: id in /home/v23riaajfc5u/public_html/api/signup.php on line 77
+[22-Sep-2019 06:28:53 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/v23riaajfc5u/public_html/api/signup.php on line 120
+[22-Sep-2019 06:29:27 UTC] PHP Notice:  Undefined variable: id in /home/v23riaajfc5u/public_html/api/signup.php on line 77
+[22-Sep-2019 06:29:27 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 151
+[22-Sep-2019 06:29:27 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 151
+[22-Sep-2019 06:29:27 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 152
+[22-Sep-2019 06:29:27 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 201
+[22-Sep-2019 06:31:19 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 120
+[22-Sep-2019 06:31:19 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 120
+[22-Sep-2019 06:31:19 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 121
+[22-Sep-2019 06:31:19 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 170
+[22-Sep-2019 06:43:36 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[22-Sep-2019 06:43:36 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[22-Sep-2019 06:43:36 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 105
+[22-Sep-2019 06:43:36 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 154
+[22-Sep-2019 06:43:46 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 06:43:53 UTC] PHP Notice:  Trying to get property of non-object in /home/v23riaajfc5u/public_html/api/login.php on line 41
+[22-Sep-2019 06:46:42 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[22-Sep-2019 06:46:42 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 76
+[22-Sep-2019 06:46:42 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 77
+[22-Sep-2019 06:46:42 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 120
+[22-Sep-2019 06:54:31 UTC] PHP Notice:  Undefined index: userId in /home/v23riaajfc5u/public_html/api/login.php on line 43
+[22-Sep-2019 06:55:13 UTC] PHP Notice:  Undefined index: userId in /home/v23riaajfc5u/public_html/api/login.php on line 43
+[22-Sep-2019 06:55:40 UTC] PHP Notice:  Undefined index: userId in /home/v23riaajfc5u/public_html/api/login.php on line 43
+[22-Sep-2019 06:56:40 UTC] PHP Notice:  Undefined index: userId in /home/v23riaajfc5u/public_html/api/login.php on line 43
+[22-Sep-2019 06:58:47 UTC] PHP Notice:  Use of undefined constant txt - assumed 'txt' in /home/v23riaajfc5u/public_html/api/login.php on line 9
+[22-Sep-2019 06:58:47 UTC] PHP Notice:  Undefined variable: testfile in /home/v23riaajfc5u/public_html/api/login.php on line 9
+[22-Sep-2019 06:58:47 UTC] PHP Notice:  Undefined index: userId in /home/v23riaajfc5u/public_html/api/login.php on line 48
+[22-Sep-2019 06:59:08 UTC] PHP Notice:  Use of undefined constant txt - assumed 'txt' in /home/v23riaajfc5u/public_html/api/login.php on line 9
+[22-Sep-2019 06:59:08 UTC] PHP Notice:  Undefined variable: testfile in /home/v23riaajfc5u/public_html/api/login.php on line 9
+[22-Sep-2019 06:59:09 UTC] PHP Notice:  Undefined index: userId in /home/v23riaajfc5u/public_html/api/login.php on line 48
+[22-Sep-2019 07:02:01 UTC] PHP Notice:  Undefined index: userId in /home/v23riaajfc5u/public_html/api/login.php on line 48
+[22-Sep-2019 07:03:22 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 07:03:22 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 07:03:22 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 61
+[22-Sep-2019 07:03:22 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[22-Sep-2019 07:04:41 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 07:04:41 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 07:04:41 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 61
+[22-Sep-2019 07:04:41 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[22-Sep-2019 07:37:49 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:37:49 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:40:19 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:40:19 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:43:10 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:43:10 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:43:10 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 26
+[22-Sep-2019 07:44:03 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:44:03 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:44:03 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:44:04 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:44:04 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:44:04 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:44:04 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:44:04 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:44:04 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:44:04 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:44:04 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:44:04 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:44:04 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:44:04 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:44:04 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:44:04 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:44:04 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:44:04 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:44:05 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:44:05 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:44:05 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:45:31 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:45:31 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:45:31 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:46:41 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:46:41 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:46:41 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:46:41 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:46:41 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:46:42 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:46:42 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:46:42 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:46:42 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:46:42 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:46:42 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:46:42 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:46:42 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:46:42 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:46:42 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:47:03 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:47:03 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:47:03 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:47:05 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:47:05 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:47:05 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:47:05 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:47:05 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:47:05 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:47:05 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:47:05 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:47:05 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:48:01 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:48:01 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:48:01 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 31
+[22-Sep-2019 07:50:11 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:50:11 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:50:11 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 33
+[22-Sep-2019 07:56:32 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 07:56:32 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 07:56:32 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 61
+[22-Sep-2019 07:56:32 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[22-Sep-2019 07:58:51 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:58:51 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:58:51 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 33
+[22-Sep-2019 07:59:16 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 07:59:16 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 07:59:16 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 33
+[22-Sep-2019 08:00:13 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 08:00:13 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 08:00:13 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 33
+[22-Sep-2019 08:00:48 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 08:00:48 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 08:00:48 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 36
+[22-Sep-2019 08:01:10 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 08:01:10 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 08:01:10 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 36
+[22-Sep-2019 08:01:26 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 08:01:26 UTC] PHP Notice:  Use of undefined constant cPhoneNumber - assumed 'cPhoneNumber' in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 08:01:26 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 08:01:26 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 36
+[22-Sep-2019 08:03:30 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/v23riaajfc5u/public_html/api/createContact.php on line 42
+[22-Sep-2019 08:03:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/v23riaajfc5u/public_html/api/createContact.php on line 42
+[22-Sep-2019 08:03:55 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/v23riaajfc5u/public_html/api/createContact.php on line 42
+[22-Sep-2019 08:04:26 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 08:05:23 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 08:05:23 UTC] PHP Notice:  Undefined index: cPhoneNumber in /home/v23riaajfc5u/public_html/api/createContact.php on line 11
+[22-Sep-2019 08:05:23 UTC] PHP Fatal error:  Call to undefined function sendResultInfoAsJson() in /home/v23riaajfc5u/public_html/api/createContact.php on line 36
+[22-Sep-2019 08:05:48 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 11:48:50 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 11:48:50 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 11:48:50 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 61
+[22-Sep-2019 11:48:50 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[22-Sep-2019 16:19:21 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 16:19:21 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 16:19:21 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 61
+[22-Sep-2019 16:19:21 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[22-Sep-2019 16:41:16 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 16:41:16 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 16:41:16 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 61
+[22-Sep-2019 16:41:16 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[22-Sep-2019 16:42:19 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 16:45:00 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 17:06:47 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 17:16:31 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 17:16:31 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 17:16:31 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 61
+[22-Sep-2019 17:16:31 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[22-Sep-2019 17:24:34 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 17:31:08 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 17:35:28 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 17:42:12 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 17:43:37 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 17:44:02 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 17:50:20 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 17:50:54 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 17:51:57 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 17:52:54 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 17:53:16 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 17:53:33 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 17:54:47 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 17:58:23 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 17:59:56 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:01:44 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:02:45 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:05:40 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:07:43 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:08:40 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:10:16 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:13:43 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:14:50 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:21:11 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:22:15 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:26:57 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:31:24 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:35:14 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 18:35:14 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 18:35:14 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 61
+[22-Sep-2019 18:35:14 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[22-Sep-2019 18:36:00 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:36:13 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:37:07 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 18:37:07 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 18:37:07 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 61
+[22-Sep-2019 18:37:07 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[22-Sep-2019 18:37:19 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:38:21 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:39:30 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:41:40 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:42:33 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:52:21 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:55:58 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:56:41 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 18:56:41 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 18:56:41 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 61
+[22-Sep-2019 18:56:41 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[22-Sep-2019 18:56:52 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 18:57:05 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 19:12:24 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 19:15:03 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 19:17:32 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 19:19:43 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 19:19:43 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 19:19:43 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 61
+[22-Sep-2019 19:19:43 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[22-Sep-2019 19:20:23 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 19:20:23 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 19:20:23 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 61
+[22-Sep-2019 19:20:23 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[22-Sep-2019 19:21:05 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 19:23:25 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 19:24:28 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 19:26:36 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 19:35:38 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 19:41:50 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 19:46:19 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 19:51:53 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 19:56:10 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 19:57:46 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 7
+[22-Sep-2019 19:57:46 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 13
+[22-Sep-2019 20:05:29 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 10
+[22-Sep-2019 20:05:29 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 16
+[22-Sep-2019 20:10:02 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 20:10:02 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[22-Sep-2019 20:10:02 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 61
+[22-Sep-2019 20:10:02 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[22-Sep-2019 20:10:11 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 10
+[22-Sep-2019 20:10:11 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 16
+[22-Sep-2019 20:10:43 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 10
+[22-Sep-2019 20:10:43 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 16
+[22-Sep-2019 20:30:20 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[22-Sep-2019 20:31:14 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[22-Sep-2019 20:31:14 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 14
+[22-Sep-2019 20:33:36 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[22-Sep-2019 20:33:36 UTC] PHP Notice:  Undefined variable: indata in /home/v23riaajfc5u/public_html/api/createContact.php on line 14
+[22-Sep-2019 20:33:36 UTC] PHP Notice:  Undefined variable: referenceId in /home/v23riaajfc5u/public_html/api/createContact.php on line 17
+[22-Sep-2019 20:34:05 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[22-Sep-2019 20:34:05 UTC] PHP Notice:  Undefined variable: indata in /home/v23riaajfc5u/public_html/api/createContact.php on line 14
+[22-Sep-2019 20:34:49 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[22-Sep-2019 20:34:49 UTC] PHP Notice:  Undefined variable: indata in /home/v23riaajfc5u/public_html/api/createContact.php on line 14
+[22-Sep-2019 20:36:33 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[22-Sep-2019 20:36:33 UTC] PHP Notice:  Undefined variable: indata in /home/v23riaajfc5u/public_html/api/createContact.php on line 14
+[22-Sep-2019 20:38:47 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[22-Sep-2019 20:38:47 UTC] PHP Notice:  Undefined variable: indata in /home/v23riaajfc5u/public_html/api/createContact.php on line 14
+[22-Sep-2019 20:39:35 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[22-Sep-2019 20:39:35 UTC] PHP Notice:  Undefined variable: indata in /home/v23riaajfc5u/public_html/api/createContact.php on line 14
+[22-Sep-2019 20:49:22 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[22-Sep-2019 20:50:05 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[22-Sep-2019 21:14:26 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:14:26 UTC] PHP Notice:  Undefined index: cFirstName in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 11
+[22-Sep-2019 21:14:26 UTC] PHP Notice:  Undefined index: cLastName in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 12
+[22-Sep-2019 21:14:26 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 22
+[22-Sep-2019 21:14:28 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:14:28 UTC] PHP Notice:  Undefined index: cFirstName in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 11
+[22-Sep-2019 21:14:28 UTC] PHP Notice:  Undefined index: cLastName in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 12
+[22-Sep-2019 21:14:28 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 22
+[22-Sep-2019 21:32:23 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:32:23 UTC] PHP Notice:  Undefined index: cFirstName in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 11
+[22-Sep-2019 21:32:23 UTC] PHP Notice:  Undefined index: cLastName in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 12
+[22-Sep-2019 21:32:23 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 22
+[22-Sep-2019 21:32:25 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:32:25 UTC] PHP Notice:  Undefined index: cFirstName in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 11
+[22-Sep-2019 21:32:25 UTC] PHP Notice:  Undefined index: cLastName in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 12
+[22-Sep-2019 21:32:25 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 22
+[22-Sep-2019 21:32:25 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:32:25 UTC] PHP Notice:  Undefined index: cFirstName in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 11
+[22-Sep-2019 21:32:25 UTC] PHP Notice:  Undefined index: cLastName in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 12
+[22-Sep-2019 21:32:25 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 22
+[22-Sep-2019 21:32:25 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:32:25 UTC] PHP Notice:  Undefined index: cFirstName in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 11
+[22-Sep-2019 21:32:25 UTC] PHP Notice:  Undefined index: cLastName in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 12
+[22-Sep-2019 21:32:25 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 22
+[22-Sep-2019 21:32:25 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:32:25 UTC] PHP Notice:  Undefined index: cFirstName in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 11
+[22-Sep-2019 21:32:25 UTC] PHP Notice:  Undefined index: cLastName in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 12
+[22-Sep-2019 21:32:25 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 22
+[22-Sep-2019 21:32:26 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:32:26 UTC] PHP Notice:  Undefined index: cFirstName in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 11
+[22-Sep-2019 21:32:26 UTC] PHP Notice:  Undefined index: cLastName in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 12
+[22-Sep-2019 21:32:26 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 22
+[22-Sep-2019 21:32:31 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 22
+[22-Sep-2019 21:32:44 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 22
+[22-Sep-2019 21:38:32 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:38:32 UTC] PHP Notice:  Undefined variable: searchResults in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 35
+[22-Sep-2019 21:39:19 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:39:19 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 24
+[22-Sep-2019 21:39:22 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:39:22 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 24
+[22-Sep-2019 21:39:54 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:39:54 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 24
+[22-Sep-2019 21:40:00 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:40:00 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 24
+[22-Sep-2019 21:40:00 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:40:00 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 24
+[22-Sep-2019 21:40:01 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:40:01 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 24
+[22-Sep-2019 21:40:01 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:40:01 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 24
+[22-Sep-2019 21:40:01 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:40:01 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 24
+[22-Sep-2019 21:40:09 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:40:09 UTC] PHP Notice:  Undefined variable: searchResults in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 35
+[22-Sep-2019 21:41:05 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:41:05 UTC] PHP Notice:  Undefined variable: searchResults in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 35
+[22-Sep-2019 21:41:15 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:41:15 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 24
+[22-Sep-2019 21:41:16 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:41:16 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 24
+[22-Sep-2019 21:41:16 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:41:16 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 24
+[22-Sep-2019 21:41:16 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:41:16 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 24
+[22-Sep-2019 21:41:16 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:41:16 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 24
+[22-Sep-2019 21:41:16 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:41:16 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 24
+[22-Sep-2019 21:42:09 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:42:09 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 26
+[22-Sep-2019 21:43:29 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:43:29 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 26
+[22-Sep-2019 21:43:31 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:43:31 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 26
+[22-Sep-2019 21:43:31 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:43:31 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 26
+[22-Sep-2019 21:43:31 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:43:31 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 26
+[22-Sep-2019 21:43:31 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:43:31 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 26
+[22-Sep-2019 21:47:06 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:47:06 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 26
+[22-Sep-2019 21:47:16 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:47:16 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 26
+[22-Sep-2019 21:47:21 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:47:21 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 26
+[22-Sep-2019 21:47:22 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:47:22 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 26
+[22-Sep-2019 21:47:23 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:47:23 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 26
+[22-Sep-2019 21:47:23 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:47:23 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 26
+[22-Sep-2019 21:47:55 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:47:55 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 28
+[22-Sep-2019 21:48:30 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 21:48:30 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 28
+[22-Sep-2019 21:49:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 27
+[22-Sep-2019 21:49:19 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 27
+[22-Sep-2019 21:49:46 UTC] PHP Parse error:  syntax error, unexpected 'fwrite' (T_STRING) in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 23
+[22-Sep-2019 21:50:13 UTC] PHP Parse error:  syntax error, unexpected 'fwrite' (T_STRING) in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 23
+[22-Sep-2019 21:50:27 UTC] PHP Parse error:  syntax error, unexpected 'fwrite' (T_STRING) in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 23
+[22-Sep-2019 21:52:17 UTC] PHP Parse error:  syntax error, unexpected 'fwrite' (T_STRING) in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 23
+[22-Sep-2019 22:04:27 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 22:04:27 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 30
+[22-Sep-2019 22:04:28 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 22:04:28 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 30
+[22-Sep-2019 22:04:52 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 22:04:52 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 30
+[22-Sep-2019 22:06:56 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 10
+[22-Sep-2019 22:06:56 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 30
+[22-Sep-2019 22:07:10 UTC] PHP Notice:  Undefined variable: searchResults in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 41
+[22-Sep-2019 22:07:17 UTC] PHP Notice:  Undefined variable: searchResults in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 41
+[22-Sep-2019 22:07:43 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[22-Sep-2019 22:07:51 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[22-Sep-2019 22:07:59 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[22-Sep-2019 22:08:03 UTC] PHP Notice:  Undefined variable: searchResults in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 41
+[22-Sep-2019 22:29:30 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[22-Sep-2019 22:29:41 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 30
+[23-Sep-2019 00:04:56 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[23-Sep-2019 00:04:56 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[23-Sep-2019 00:04:56 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 61
+[23-Sep-2019 00:04:56 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[23-Sep-2019 00:05:03 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[23-Sep-2019 00:05:03 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[23-Sep-2019 00:05:03 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 61
+[23-Sep-2019 00:05:03 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[23-Sep-2019 00:08:55 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[23-Sep-2019 00:08:55 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[23-Sep-2019 00:08:55 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 61
+[23-Sep-2019 00:08:55 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[23-Sep-2019 00:13:55 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[23-Sep-2019 00:14:23 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[23-Sep-2019 00:14:33 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[23-Sep-2019 00:16:30 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[23-Sep-2019 00:21:50 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[23-Sep-2019 00:22:09 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[23-Sep-2019 00:24:45 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[23-Sep-2019 00:36:43 UTC] PHP Notice:  Undefined variable: stmt in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[23-Sep-2019 00:36:43 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/v23riaajfc5u/public_html/api/signup.php on line 60
+[23-Sep-2019 00:36:43 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/v23riaajfc5u/public_html/api/signup.php on line 61
+[23-Sep-2019 00:36:43 UTC] PHP Notice:  Undefined index: signup in /home/v23riaajfc5u/public_html/api/signup.php on line 104
+[23-Sep-2019 00:38:17 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[23-Sep-2019 00:38:24 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[23-Sep-2019 00:40:29 UTC] PHP Fatal error:  Call to undefined function returnWithError() in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 30
+[23-Sep-2019 00:40:39 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8
+[23-Sep-2019 00:40:45 UTC] PHP Notice:  Undefined index: userId in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 41
+[23-Sep-2019 00:40:45 UTC] PHP Notice:  Undefined variable: searchResults in /home/v23riaajfc5u/public_html/api/SearchContacts.php on line 41
+[23-Sep-2019 00:41:09 UTC] PHP Notice:  Undefined index: userid in /home/v23riaajfc5u/public_html/api/createContact.php on line 8

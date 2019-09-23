@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> Contact Manager </title>
+		<script src="../JS/code.js"></script>
+		<link rel="stylesheet" href="css/style.css" type="text/css"/>
+		<link rel="icon" href="Images/favicon.ico" type="image/x-icon">
+	</head>
+
+	<body>
+		<!-- <h1 id="welcome">Welcome!</h1> -->
+
+		<!-- Login -->
+		<div id="loginDiv">
+			<h1>Welcome</h1>
+			<!--<span id="login">PLEASE LOG IN OR SIGN UP BELOW</span>-->
+			<input type="text" id="uName" required="required" placeholder="Username" autofocus="autofocus"/><br/>
+			<input type="Password" id="pWord" required="required" placeholder="Password"/><br/>
+			<input type="submit" class="login" value="Login" onclick="doLogin();"/><br/>
+			<!-- <button type="submit" id="loginButton" class="login" onclick="doLogin();"> Login </button> -->
+			<input type="submit" class="register" value="Register" onclick="doRegistration();"/><br/>
+			<!-- <button type="submit" id="registerButton" class="register" onclick="doRegistration();"> Register Now </button> -->
+			<span id="loginResult"></span>
+		</div>
+
+		<div id="loggedInDiv" style="display:none; visibility:hidden;">
+			<!-- <span id="userName"></span><br /> -->
+			<button type="button" id="logoutButton" class="buttons" onclick="doLogout();"> Log Out </button>
+		</div>
+
+		<!-- Registration -->
+		<!-- <div id="registerDiv" style="display:none; visibility:hidden;">
+      	<span id="login">Sign Up</span>
+     		<input type="text" name="userName" placeholder="Username">
+     		<input type="text" name="email" placeholder="E-mail">
+     		<input type="password" name="passWord" placeholder="Password">
+     		<input type="password" name="pwd-repeat" placeholder="Repeat password">
+     		<button type="button" id="registerButton" class="buttons" onclick="submitRegistration();">Signup</button>
+		</div> -->
+
+		<!-- Contact stuff -->
+		<div id="accessUIDiv" style="display:none; visibility:hidden;"><br />
+			<input type="text" id="searchText" placeholder="Contact To Search For"/>
+			<button type="button" id="searchContactButton" class="buttons" onclick="searchContact();"> Search Color </button><br />
+			<span id="contactSearchResult"></span>
+			<select id="contactList" style="display:none; visibility:hidden;">
+			<!-- <option value="volvo">Volvo</option> -->
+			</select><br /><br />
+			<!--<input type="text" id="contactText" placeholder="Contact To Add">-->
+			<input type="text" id="cEmail" required="required" placeholder="email@example.com"/><br/>
+			<input type="text" id="cFirstName" required="required" placeholder="First Name"/><br/>
+			<input type="text" id="cLastName" required="required" placeholder="Last Name"/><br/>
+			<input type="text" id="cPhoneNumber" required="required" placeholder="Phone Number"/><br/>
+			<button type="button" id="addContactButton" class="buttons" onclick="addContact();"> Add Contact </button><br />
+			<span id="contactAddResult"></span>
+		</div>
+
+	</body>
+</html>

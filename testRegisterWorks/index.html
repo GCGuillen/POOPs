@@ -1,57 +1,42 @@
+<!--<?php-->
+<!--    require "header.php";-->
+<!--?>-->
+
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title> Contact Manager </title>
-		<script src="../JS/code.js"></script>
 		<link rel="stylesheet" href="../css/style.css" type="text/css"/>
 		<link rel="icon" href="../images/favicon.ico" type="image/x-icon">
+		<script src="../JavaScript/script.js"></script>
 	</head>
-
 	<body>
-		<!-- <h1 id="welcome">Welcome!</h1> -->
+		<div id = "wrapper">
+			<div id="login">
+				<h1>Welcome</h1>
+				<form method="post" action="/includes/signup.inc.php">
 
-		<!-- Login -->
-		<div id="loginDiv">
-			<h1>Welcome</h1>
-			<!-- <span id="login">PLEASE LOG IN OR SIGN UP BELOW</span> -->
-			<input type="text" id="uName" required="required" placeholder="Username" autofocus="autofocus"/><br/>
-			<input type="Password" id="pWord" required="required" placeholder="Password"/><br/>
-			<input type="submit" class="login" value="Login" onclick="doLogin();"/><br/>
-			<!-- <button type="submit" id="loginButton" class="login" onclick="doLogin();"> Login </button> -->
-			<input type="submit" class="register" value="Register" onclick="doRegistration();"/><br/>
-			<!-- <button type="submit" id="registerButton" class="register" onclick="doRegistration();"> Register Now </button> -->
-			<span id="loginResult"></span>
-		</div>
-
-		<div id="loggedInDiv" style="display:none; visibility:hidden;">
-			<!-- <span id="userName"></span><br /> -->
-			<button type="button" id="logoutButton" class="buttons" onclick="doLogout();"> Log Out </button>
-		</div>
-
-		<!-- Registration -->
-		<div id="registerDiv" style="display:none; visibility:hidden;">
-      	<span id="login">Sign Up</span>
-     		<input type="text" name="userName" placeholder="Username">
-     		<input type="text" name="email" placeholder="E-mail">
-     		<input type="password" name="passWord" placeholder="Password">
+					<input type="text" id="uName" name="uName" required="required" placeholder="Username" autofocus="autofocus"></br>
+					<input type="Password" id="pWord" name="pWord" required="required" placeholder="Password"></br>
+					<input type="submit" class="login" value="Login">
+					<input type="submit" class="register" name="signup-submit" value="Register"></br>
+				</form>
+			<!--<main>-->
+ 	      <!--  <h1>Sign Up</h1>
+    	<form action="includes/signup.inc.php" method="post">
+     		<input type="text" name="uid" placeholder="Username">
+     		<input type="text" name="mail" placeholder="E-mail">
+     		<input type="password" name="pwd" placeholder="Password">
      		<input type="password" name="pwd-repeat" placeholder="Repeat password">
-     		<button type="button" id="registerButton" class="buttons" onclick="submitRegistration();">Signup</button>
-		</div>
+     		<button type="submit" name="signup-submit">Signup</button>
 
-		<!-- Contact stuff -->
-		<div id="accessUIDiv" style="display:none; visibility:hidden;"><br />
-			<input type="text" id="searchText" placeholder="Color To Search For"/>
-			<button type="button" id="searchColorButton" class="buttons" onclick="searchColor();"> Search Color </button><br />
-			<span id="colorSearchResult"></span>
-			<select id="colorList" style="display:none; visibility:hidden;">
-			<!-- <option value="volvo">Volvo</option> -->
-			</select><br /><br />
-			<input type="text" id="colorText" placeholder="Color To Add">
-			<button type="button" id="addColorButton" class="buttons" onclick="addColor();"> Add Color </button><br />
-			<span id="colorAddResult"></span>
-		</div>
 
+     	</form>
+ </main> -->
+			</div>
+		</div>
 	</body>
 </html>
