@@ -5,6 +5,7 @@ var extension = "php";
 
 var userId = 0;
 var contactId = 0;
+var s = 0;
 
 function doLogin()
 {
@@ -24,12 +25,12 @@ function doLogin()
 	var xhr = new XMLHttpRequest();
 	xhr.open("POST", url, true);
 	xhr.setRequestHeader("Content-type", "application/json; charset=UTF-8");
-	alert(uName + passWord);
+
    try
    {
       // Send the json payload to the server
       xhr.send(jsonPayload);
-      //alert(xhr.responseText);
+
       xhr.onreadystatechange = function()
       {
          if (this.readyState == 4 && this.status == 200)
@@ -37,9 +38,9 @@ function doLogin()
             // Parse the response from the server
             var jsonObject = JSON.parse(xhr.responseText);
 
-            // Set the userId and check to make sure it was changed
+            // Set the userId and check to make sure it was changed, if so, print the error and return
       		userId = jsonObject.id;
-      		if (userId < 1)  // if unchanged, print the error and return
+      		if (userId < 1)
       		{
       			document.getElementById("loginResult").innerHTML = jsonObject.error;
       			return;
@@ -50,9 +51,9 @@ function doLogin()
       		document.getElementById("pWord").value = "";
 
             // Change the page from the login page
-      		hideOrShow("loggedInDiv", true);
-      		hideOrShow("accessUIDiv", true);
-      		hideOrShow("loginDiv", false);
+      		hideOrShow("contacts", true);
+      		hideOrShow("login", false);
+      		retrieveContacts();
             //location.href = 'contacts.html';
          }
       };
@@ -70,17 +71,17 @@ function doLogout()
    userId = 0;
    document.getElementById("uName").value = "";
    document.getElementById("pWord").value = "";
+   document.getElementById("searchContact").value = "";
    document.getElementById("cFirstName").value = "";
    document.getElementById("cLastName").value = "";
    document.getElementById("cEmail").value = "";
    document.getElementById("cPhoneNumber").value = "";
 
    // Go back to showing the login page
-   hideOrShow("loggedInDiv", false);
-	hideOrShow("accessUIDiv", false);
-	hideOrShow("loginDiv", true);
+   //hideOrShow("contacts", false);
+   //hideOrShow("login", true);
 
-   //location.href = 'index.html';
+   location.href = 'index.html';
 }
 
 function hideOrShow(elementId, showState)
@@ -127,14 +128,12 @@ function doRegistration()
 		{
 			if (this.readyState == 4 && this.status == 200)
 			{
-            alert(xhr.responseText);
             // Parse the response from the server
             var jsonObject = JSON.parse(xhr.responseText);
 
-            // Set the userId and check to make sure it was changed
+            // Set the userId and check to make sure it was changed, if so, print error and return
             userId = jsonObject.id;
-            alert(userId);
-            if (userId < 1)  // if unchanged, print the error and return
+            if (userId < 1)
             {
                document.getElementById("loginResult").innerHTML = jsonObject.error;
                return;
@@ -145,9 +144,8 @@ function doRegistration()
             document.getElementById("pWord").value = "";
 
             // Change the page from the login page
-            hideOrShow("loggedInDiv", true);
-            hideOrShow("accessUIDiv", true);
-            hideOrShow("loginDiv", false);
+            hideOrShow("contacts", true);
+            hideOrShow("login", false);
             //location.href = 'contacts.html';
 			}
 		};
@@ -171,7 +169,7 @@ function addContact()
    // Prepare to send the contact info to the server
    var jsonPayload = '{"cFirstName" : "' + cFName + '", "cLastName" : "' + cLName + '", "cPhoneNum" : "' + cPhoneNum + '", "cEmail" : "' + cEmail + '", "userId" : "' + userId + '"}';
    var url = urlBase + '/api/createContact.' + extension;
-   alert(jsonPayload);
+
    // Create and open a connection to the server
    var xhr = new XMLHttpRequest();
 	xhr.open("POST", url, true);
@@ -186,12 +184,23 @@ function addContact()
 		{
 			if (this.readyState == 4 && this.status == 200)
 			{
+            var table = document.getElementById('gibberish');
+            var tr = document.createElement("tr");
+
+            tr.innerHTML = '<td>' + document.getElementById("cFirstName").value + '</td>' +
+            '<td>' + document.getElementById("cLastName").value + '</td>' +
+            '<td>' + document.getElementById("cEmail").value + '</td>' +
+            '<td>' + document.getElementById("cPhoneNumber").value + '</td>';
+            table.appendChild(tr);
+
             // Clear the add contact fields
-         	document.getElementById("cEmail").value = "";
-         	document.getElementById("cFirstName").value = "";
-         	document.getElementById("cLastName").value = "";
-         	document.getElementById("cPhoneNumber").value = "";
-				document.getElementById("contactAddResult").innerHTML = "Contact has been added";
+            document.getElementById("cEmail").value = "";
+            document.getElementById("cFirstName").value = "";
+            document.getElementById("cLastName").value = "";
+            document.getElementById("cPhoneNumber").value = "";
+            document.getElementById("contactAddResult").innerHTML = "Contact has been added";
+            // deleteTable();
+            // retrieveContacts();
 			}
 		};
 	}
@@ -201,14 +210,59 @@ function addContact()
 	}
 }
 
+function retrieveContacts()
+{
+//   document.getElementById("contactRetrieveResult").innerHTML = "";
+   var jsonPayload = '{"userId" : "' + userId + '"}';
+   var url = urlBase + 'api/retrieveContacts.' + extension;
+
+   var xhr = new XMLHttpRequest();
+   xhr.open("POST", url, true);
+   xhr.setRequestHeader("Content-type", "application/json; charset=UTF-8");
+
+   try
+   {
+      xhr.send(jsonPayload);
+
+      xhr.onreadystatechange = function()
+      {
+         if (this.readyState == 4 && this.status == 200)
+         {
+            var jsonObject = JSON.parse(xhr.responseText);
+            //contactId = jsonObject.tableId;
+            if(jsonObject.error.length > 0)
+			   {
+				   document.getElementById("contactSearchResult").innerHTML = "No contacts were found.";
+				   return;
+			   }
+
+            var i;
+            for (i = 0; i < jsonObject.firstName.length; i++)
+				{
+               var table = document.getElementById('gibberish');
+               var tr = document.createElement("tr");
+               s = jsonObject.userId[i];
+
+               tr.setAttribute("id", "insertedTable1"+s);
+               tr.innerHTML = '<td>' + jsonObject.firstName[i] + '</td>' +
+               '<td>' + jsonObject.lastName[i] + '</td>' +
+               '<td>' + jsonObject.email[i] + '</td>' +
+               '<td>' + jsonObject.phoneNumber[i] + '</td>';
+               table.appendChild(tr);
+			   }
+         }
+      };
+   }
+   catch(err)
+   {
+      document.getElementById("contactSearchResult").innerHTML = err.message;
+   }
+}
+
 function searchContact()
 {
-   alert(userId);
-   var srch = document.getElementById("searchText").value;
+   var srch = document.getElementById("searchContact").value;
 	document.getElementById("contactSearchResult").innerHTML = "";
-
-	var contactList = document.getElementById("contactList");
-	contactList.innerHTML = "";
 
 	var jsonPayload = '{"search" : "' + srch + '", "userId" : "' + userId + '"}';
 	var url = urlBase + 'api/SearchContacts.' + extension;
@@ -225,19 +279,32 @@ function searchContact()
 		{
 			if (this.readyState == 4 && this.status == 200)
 			{
-				hideOrShow("contactList", true);
+			   document.getElementById("contactSearchResult").innerHTML = "Contact(s) found";
 
-				document.getElementById("contactSearchResult").innerHTML = "Contact(s) has been retrieved";
 				var jsonObject = JSON.parse(xhr.responseText);
-            contactId = jsonObject.tableId;
-				alert(xhr.responseText);
-				var i;
-				for (i = 0; i < jsonObject.results.length; i++)
+				if (jsonObject.error.length > 0)
 				{
-					var opt = document.createElement("option");
-					opt.text = jsonObject.results[i];
-					opt.value = "";
-					contactList.options.add(opt);
+				   document.getElementById("contactSearchResult").innerHTML = "No contacts were found.";
+				   return;
+				}
+
+            contactId = jsonObject.tableId;
+
+				var i;
+				for (i = 0; i < jsonObject.firstName.length; i++)
+				{
+               var table = document.getElementById('gibberish2');
+               var tr = document.createElement("tr");
+               s = jsonObject.userId[i];
+
+               tr.setAttribute("id", "insertedTable2"+s);
+               tr.innerHTML = '<td>' + jsonObject.firstName[i] + '</td>' +
+               '<td>' + jsonObject.lastName[i] + '</td>' +
+               '<td>' + jsonObject.email[i] + '</td>' +
+               '<td>' + jsonObject.phoneNumber[i] + '</td>' +
+               '<td><button type="button" class="button" onclick="deleteContact(' + (s) + ');">Delete</button></td>';
+
+               table.appendChild(tr);
 				}
 			}
 		};
@@ -248,13 +315,21 @@ function searchContact()
 	}
 }
 
-function deleteContact()
+function deleteTable()
 {
+   //document.getElementById("gibberish").remove();
+   var mainContactTable = document.getElementById("gibberish");
+   mainContactTable.parentNode.removeChild(mainContactTable);
+}
 
-   document.getElementById("contactDeleteResult").innerHTML = "";
 
-   var jsonPayload = '{"tableId" : "' + contactId + '", "userId" : "' + userId + '"}';
-	var url = urlBase + 'api/DeleteContacts.' + extension;
+function deleteContact(id)
+{
+//   document.getElementById("contactDeleteResult").innerHTML = "";
+   contactId = id;
+
+   var jsonPayload = '{"tableId" : "' + contactId + '", "UserId" : "' + userId + '"}';
+	var url = urlBase + 'api/deleteContact.' + extension;
 
 	var xhr = new XMLHttpRequest();
 	xhr.open("POST", url, true);
@@ -268,11 +343,32 @@ function deleteContact()
 		{
 			if (this.readyState == 4 && this.status == 200)
 			{
-				hideOrShow("contactList", true);
+            var searchContactTable = document.getElementById("insertedTable2"+id);
+            searchContactTable.parentNode.removeChild(searchContactTable);
 
-				document.getElementById("contactDeleteResult").innerHTML = "Contact has been deleted";
-				var jsonObject = JSON.parse(xhr.responseText);
-				alert(xhr.responseText);
+            // deleting current row in search contact result table
+            //var mainContactTable = document.getElementById("insertedTable1"+id);
+            //mainContactTable.parentNode.removeChild(mainContactTable);
+
+            //document.getElementById("contactDeleteResult").innerHTML = "Contact has been deleted";
+            //var jsonObject = JSON.parse(xhr.responseText);
+
+            // Deleteing table
+            mainContactTable = document.getElementById("gibberish");
+            mainContactTable.parentNode.removeChild(mainContactTable);
+
+            var mainContact = document.getElementById("contacts");
+            // var table = document.getElementById('gibberish2');
+            var table = document.createElement("table");
+            // tr.setAttribute("id", "insertedTable2"+s);
+            table.setAttribute("class", "contacts");
+            table.setAttribute("id", "gibberish");
+            table.setAttribute("border", "1");
+            table.innerHTML = '<tr>' + '<th>FirstName</th>' + '<th>Last Name</th>' + '<th>E-Mail</th>' + '<th>Phone Number</th>'
+            '</tr>';
+            mainContact.appendChild(table);
+
+            retrieveContacts();
 			}
 		};
 	}
